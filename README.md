@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1>Hey, I'm Aishwarya! <br/><a href="https://github.com/AishNiroula/AishNiroula"></a> <a href=" https://www.linkedin.com/in/aishwarya-niroula/">B.S in Computer Science Major at The New Jersey Institute Of Technology</a> 
 
-<!--
-**AishNiroula/AishNiroula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👩🏽‍💻 Java Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Concepts Tested:
+Aggregation,
+ Passing object to method,
+ Array Structure,
+ Objects as elements of the Array,
+ Processing array elements,
+ Copy Constructor,
+ Junit testing </b>
+  - [Property Management Company App](https://github.com/AishNiroula/AishN/tree/Property-Management-App)
+ 
+ - <b> Concepts Tested:
+Constructors,
+ Encapsulation,
+ Inheritence and Composition,
+ Polymorphism,
+ Method Overloading,
+ Abstraction,
+ Static Methods </b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - [Patient Information App](https://github.com/AishNiroula/AishN/tree/Patient-Information-App) <b> 
+
+
+<h2> 🤳 Connect with me:</h2>
+
+</b>
+  Aishwarya Niroula's Linkedin : https://www.linkedin.com/in/aishwarya-niroula/
+ 
+ 
+
+
+
