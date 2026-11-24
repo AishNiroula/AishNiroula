@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Aishwarya 👋</h1>
+<h1 align="center">Hey, I'm Aishwarya </h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -14,15 +14,15 @@
 
 I'm a Computer Science student at **NJIT** (B.S., expected May 2027) who likes building AI systems that actually work, and being honest about when they don't. I'm looking for software, AI engineering, and data science internships and roles.
 
-## 🔭 What I'm working on right now
+## What I'm working on right now
 
-- 🤖 **Robotics + computer vision research (NJIT, AI Ethics & Robotics lab):** a webcam-based system that tracks hand and arm motion and maps it to real-time control of a **KINOVA Gen3** robotic arm, plus research on how capable robotic and AI systems can be designed for safe, responsible use.
-- 🎓 **Tech Fellow at CodePath:** supporting nearly 3,000 students in **AI201: Applications of AI Engineering** (I was one of the founding fellows when the course launched) and **AI301: Advanced AI Open-Source Capstone**.
-- 🏅 **Certified in CodePath AI110: Foundations of AI Engineering.**
+- **Robotics + computer vision research (NJIT, AI Ethics & Robotics lab):** a webcam-based system that tracks hand and arm motion and maps it to real-time control of a **KINOVA Gen3** robotic arm, plus research on how capable robotic and AI systems can be designed for safe, responsible use.
+- **Tech Fellow at CodePath:** supporting nearly 3,000 students in **AI201: Applications of AI Engineering** (I was one of the founding fellows when the course launched) and **AI301: Advanced AI Open-Source Capstone**.
+- **Certified in CodePath AI110: Foundations of AI Engineering.**
 
-## 🚀 Featured project
+## Featured project
 
-### 🎧 [MoodDJ: an agentic music recommender](https://github.com/AishNiroula/mooddj-agentic-music-recommender)
+### [MoodDJ: an agentic music recommender](https://github.com/AishNiroula/mooddj-agentic-music-recommender)
 
 Type something like *"songs for late-night studying"* or *"upbeat workout playlist but no country"* and get a small, explained playlist back. I took a static, parameter-driven recommender and wrapped it in a **plan → act → verify** agent.
 
@@ -37,19 +37,19 @@ Type something like *"songs for late-night studying"* or *"upbeat workout playli
 
 `Python` · `Claude API` · `pytest` · `Agent design` · `Evals`
 
-## ☕ Earlier Java projects
+## Earlier Java projects
 
 | Project | Concepts |
 |---|---|
 | [Property Management Company App](https://github.com/AishNiroula/AishN/tree/Property-Management-App) | Aggregation, passing objects to methods, arrays of objects, copy constructors, JUnit testing |
 | [Patient Information App](https://github.com/AishNiroula/AishN/tree/Patient-Information-App) | Encapsulation, inheritance and composition, polymorphism, method overloading, abstraction |
 
-## 💼 Experience
+## Experience
 
 - **Data Science Intern, DC Water** (Summer 2025): analyzed 3,000+ geospatial records to detect non-revenue water trends, raised dataset completeness to 95%+ with ArcGIS and SQL, and cut engineers' manual reporting time by 40%.
 - **Peer Mentor, NJIT Ying Wu College of Computing:** mentored 60+ first-year CS students and improved assignment completion by 20%.
 
-## 🛠️ Toolbox
+## Toolbox
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,nodejs,html,css,mongodb,git,github,linux,bash,numpy" alt="Skills" />
@@ -57,7 +57,7 @@ Type something like *"songs for late-night studying"* or *"upbeat workout playli
 
 Also: SQL, ArcGIS, Tableau, Machine Learning, NLP, Computer Vision, Robotics (KINOVA Gen3).
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AishNiroula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -68,7 +68,7 @@ Also: SQL, ArcGIS, Tableau, Machine Learning, NLP, Computer Vision, Robotics (KI
   <img src="https://streak-stats.demolab.com/?user=AishNiroula&hide_border=true" alt="Contribution streak" />
 </p>
 
-## 📂 All my public repositories
+## All my public repositories
 
 | Repo | What it is | Language |
 |---|---|---|
@@ -101,6 +101,6 @@ Also: SQL, ArcGIS, Tableau, Machine Learning, NLP, Computer Vision, Robotics (KI
 
 </details>
 
-## 🤝 Let's connect
+## Let's connect
 
 Always happy to talk about AI engineering, computer vision, robotics, or teaching CS. Reach me on [LinkedIn](https://www.linkedin.com/in/aishwarya-niroula/) or [email](mailto:niroula1004@gmail.com).
