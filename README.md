@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aishwarya-niroula/"><img src="https://img.shields.io/badge/LinkedIn-Aishwarya_Niroula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:niroula1004@gmail.com"><img src="https://img.shields.io/badge/Email-niroula1004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AishNiroula&label=Profile+views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 I'm a Computer Science student at **NJIT** (B.S., expected May 2027) who likes building AI systems that actually work, and being honest about when they don't. I'm looking for software, AI engineering, and data science internships and roles.
@@ -62,10 +61,6 @@ Also: SQL, ArcGIS, Tableau, Machine Learning, NLP, Computer Vision, Robotics (KI
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AishNiroula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishNiroula&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AishNiroula&hide_border=true" alt="Contribution streak" />
 </p>
 
 ## All my public repositories
